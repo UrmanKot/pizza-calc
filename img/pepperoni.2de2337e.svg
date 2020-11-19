@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="33" viewBox="0 0 53 33">
+    <defs>
+        <path id="a" d="M0 0h60v60H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-3 -12)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g mask="url(#b)">
+            <path fill="#DA7070" stroke="#844C22" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" d="M28.707 14.685l-12.4-1.408c-5.946-.13-9.771 2.663-11.475 8.38-1.673 5.61.962 10.191 2.22 11.437.838.831 5.513 3.215 14.024 7.152-4.442-3.048-6.031-8.09-4.769-15.122 1.263-7.034 5.396-10.513 12.4-10.44z"/>
+            <path fill="#BF4D45" d="M7.488 32.857c-.729-.626-1.843-2.819-2.214-4.116-.414-1.45-.545-2.97-.39-4.56a24.779 24.779 0 0 0 4.746 2.415 87.69 87.69 0 0 0 5.113 1.77c-.166 1.434.104 3.234.81 5.4.705 2.167 1.504 3.628 2.398 4.383-5.798-2.634-9.286-4.398-10.463-5.292z"/>
+            <path fill="#CB524A" d="M9.297 15.75L19.09 17.7c.527-.58 1.241-1.149 2.143-1.704.902-.555 1.796-.98 2.682-1.277l-7.59-.913c-1.626 0-2.933.134-3.921.402-.989.268-2.024.782-3.106 1.54z" opacity=".452"/>
+            <g transform="rotate(-161 21.034 19.687)">
+                <ellipse cx="12.111" cy="13.693" fill="#E37979" stroke="#844C22" stroke-width="1.1" rx="12.111" ry="13.693"/>
+                <ellipse cx="6.782" cy="12.715" fill="#FFEDE9" opacity=".884" rx="1.938" ry="1.956"/>
+                <ellipse cx="12.111" cy="10.269" fill="#FFEDE9" rx="1.453" ry="1.467"/>
+                <ellipse cx="11.142" cy="22.006" fill="#FFEDE9" opacity=".959" rx="1.453" ry="1.467"/>
+                <ellipse cx="16.47" cy="15.649" fill="#FFEDE9" opacity=".974" rx="2.907" ry="2.934"/>
+                <ellipse cx="8.235" cy="6.357" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <ellipse cx="15.502" cy="5.868" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <path fill="#FFF" d="M6.962 25.483S.442 17.56 3.994 8.2c1.433-3.776 6.373-6.177 10.43-5.145 4.842 1.232 6.896 5.32 9.17 9.976 0-4.831-3.787-12.45-11.667-12.45S.536 7.897.536 13.892c0 5.996 3.458 9.986 6.426 11.59z" opacity=".566"/>
+            </g>
+            <g transform="rotate(172 21.937 22.066)">
+                <ellipse cx="12.111" cy="13.693" fill="#E37979" stroke="#844C22" stroke-width="1.1" rx="12.111" ry="13.693"/>
+                <ellipse cx="6.782" cy="12.715" fill="#FFEDE9" opacity=".884" rx="1.938" ry="1.956"/>
+                <ellipse cx="12.111" cy="10.269" fill="#FFEDE9" rx="1.453" ry="1.467"/>
+                <ellipse cx="11.142" cy="22.006" fill="#FFEDE9" opacity=".959" rx="1.453" ry="1.467"/>
+                <ellipse cx="16.47" cy="15.649" fill="#FFEDE9" opacity=".974" rx="2.907" ry="2.934"/>
+                <ellipse cx="8.235" cy="6.357" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <ellipse cx="15.502" cy="5.868" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <path fill="#FFF" d="M6.962 25.483S.442 17.56 3.994 8.2c1.433-3.776 6.373-6.177 10.43-5.145 4.842 1.232 6.896 5.32 9.17 9.976 0-4.831-3.787-12.45-11.667-12.45S.536 7.897.536 13.892c0 5.996 3.458 9.986 6.426 11.59z" opacity=".566"/>
+            </g>
+            <g transform="rotate(135 23.71 28.548)">
+                <ellipse cx="12.111" cy="13.693" fill="#E37979" stroke="#844C22" stroke-width="1.1" rx="12.111" ry="13.693"/>
+                <ellipse cx="6.782" cy="12.715" fill="#FFEDE9" opacity=".884" rx="1.938" ry="1.956"/>
+                <ellipse cx="12.111" cy="10.269" fill="#FFEDE9" rx="1.453" ry="1.467"/>
+                <ellipse cx="11.142" cy="22.006" fill="#FFEDE9" opacity=".959" rx="1.453" ry="1.467"/>
+                <ellipse cx="16.47" cy="15.649" fill="#FFEDE9" opacity=".974" rx="2.907" ry="2.934"/>
+                <ellipse cx="8.235" cy="6.357" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <ellipse cx="15.502" cy="5.868" fill="#FFEDE9" opacity=".884" rx="1" ry="1"/>
+                <path fill="#FFF" d="M6.962 25.483S.442 17.56 3.994 8.2c1.433-3.776 6.373-6.177 10.43-5.145 4.842 1.232 6.896 5.32 9.17 9.976 0-4.831-3.787-12.45-11.667-12.45S.536 7.897.536 13.892c0 5.996 3.458 9.986 6.426 11.59z" opacity=".566"/>
+            </g>
+        </g>
+    </g>
+</svg>
